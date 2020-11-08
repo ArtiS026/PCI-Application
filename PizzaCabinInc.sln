@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCabinInc", "PizzaCabinInc\PizzaCabinInc.csproj", "{1E31FF2E-646F-42E0-B926-7C75F184D530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaCabinInc", "PizzaCabinInc\PizzaCabinInc.csproj", "{1E31FF2E-646F-42E0-B926-7C75F184D530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCabinIncTest", "PizzaCabinIncTest\PizzaCabinIncTest.csproj", "{F712AD6C-B737-4032-89C0-28A50ACF6B78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1E31FF2E-646F-42E0-B926-7C75F184D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E31FF2E-646F-42E0-B926-7C75F184D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E31FF2E-646F-42E0-B926-7C75F184D530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F712AD6C-B737-4032-89C0-28A50ACF6B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F712AD6C-B737-4032-89C0-28A50ACF6B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F712AD6C-B737-4032-89C0-28A50ACF6B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F712AD6C-B737-4032-89C0-28A50ACF6B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
