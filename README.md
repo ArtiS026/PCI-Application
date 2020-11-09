@@ -1,8 +1,5 @@
 # PCI-ApplicationPizzaCabinInc.
-Tec stack: Asp.net core, LiteDB.
-Lite DB : https://www.litedb.org/docs/getting-started/ , https://www.litedb.org/docs/dbref/
-Run LiteDB.Studio.exe , to see the Tables in your database (select MyData.db )
- 
+
 
 Implementation and Logic :
 1.	To get the data from the REST service (json output) that the WFM service exposes and store it into a database. 
@@ -10,7 +7,7 @@ Implementation and Logic :
 Create an API with following controller.
 
 
-4.	added Swagger to give the API interactive editor:
+3.	added Swagger to give the API interactive editor:
 Access url : https://localhost:44301/swagger/index.html
  
 
